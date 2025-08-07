@@ -3,10 +3,9 @@
 An interactive Tableau dashboard analyzing Superstore USA sales performance by Category, Sub-category, State, and Segment. Includes key performance indicators such as Total Sales, Profit Margin, and Return Rate.
 
 ---
-
 ## 🔗 Live Dashboard
-[View on Tableau Public]:
-https://public.tableau.com/shared/64P7X3DD2?:display_count=n&:origin=viz_share_link
+
+[Click here to view the Tableau Public Dashboard](https://public.tableau.com/shared/64P7X3DD2?:display_count=n&:origin=viz_share_link)
 <img width="1656" height="795" alt="image" src="https://github.com/user-attachments/assets/05078dd2-d681-469b-a466-09614bf694aa" />|
 
 
