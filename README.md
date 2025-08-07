@@ -49,7 +49,6 @@ An interactive Tableau dashboard analyzing Superstore USA sales performance by C
 - **Top Category:** Technology (36.4%)  
 - **Top Segment:** Consumer (50.56%)  
 - **Top Product:** Canon imageCLASS 2200 Copier  
-- Sales increased consistently between 2013–2016.
 
 ---
 
