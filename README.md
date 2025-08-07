@@ -11,8 +11,6 @@ An interactive Tableau dashboard analyzing Superstore USA sales performance by C
 
 ## 🧠 Skills Demonstrated
 
-## 🧠 Skills Demonstrated
-
 - Data Visualization using Tableau
 - Quick Table Calculations (Pane % totals, grand totals)
 - Sorting & Cross-tab Table Design
